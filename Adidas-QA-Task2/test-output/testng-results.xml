@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96234" started-at="2018-01-07T16:14:00Z" finished-at="2018-01-07T16:15:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96234" started-at="2018-01-07T16:14:00Z" finished-at="2018-01-07T16:15:36Z">
+      <class name="com.AdidasTask.TestScripts.TestScripts">
+        <test-method status="PASS" signature="ExtentReportinit()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="ExtentReportinit" is-config="true" duration-ms="353" started-at="2018-01-07T21:44:00Z" finished-at="2018-01-07T21:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReportinit -->
+        <test-method status="PASS" signature="BrowserFactory()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="BrowserFactory" is-config="true" duration-ms="19526" started-at="2018-01-07T21:44:00Z" finished-at="2018-01-07T21:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserFactory -->
+        <test-method status="PASS" signature="HomePage_Title_Verification()[pri:1, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="HomePage_Title_Verification" duration-ms="89" started-at="2018-01-07T21:44:20Z" finished-at="2018-01-07T21:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_Title_Verification -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="TearDown" is-config="true" duration-ms="2302" started-at="2018-01-07T21:44:20Z" finished-at="2018-01-07T21:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePage_Title_Verification status=SUCCESS method=TestScripts.HomePage_Title_Verification()[pri:1, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="BrowserFactory()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="BrowserFactory" is-config="true" duration-ms="4632" started-at="2018-01-07T21:44:22Z" finished-at="2018-01-07T21:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserFactory -->
+        <test-method status="PASS" signature="CartValueVerification()[pri:2, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="CartValueVerification" duration-ms="21194" started-at="2018-01-07T21:44:27Z" finished-at="2018-01-07T21:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartValueVerification -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="TearDown" is-config="true" duration-ms="1294" started-at="2018-01-07T21:44:48Z" finished-at="2018-01-07T21:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CartValueVerification status=SUCCESS method=TestScripts.CartValueVerification()[pri:2, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="BrowserFactory()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="BrowserFactory" is-config="true" duration-ms="5059" started-at="2018-01-07T21:44:54Z" finished-at="2018-01-07T21:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserFactory -->
+        <test-method status="PASS" signature="LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="LoginCheck" duration-ms="9414" started-at="2018-01-07T21:44:59Z" data-provider="Login_Credentials" finished-at="2018-01-07T21:45:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@yahoo.co.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCheck -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="TearDown" is-config="true" duration-ms="2344" started-at="2018-01-07T21:45:08Z" finished-at="2018-01-07T21:45:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginCheck status=SUCCESS method=TestScripts.LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="BrowserFactory()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="BrowserFactory" is-config="true" duration-ms="3906" started-at="2018-01-07T21:45:11Z" finished-at="2018-01-07T21:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserFactory -->
+        <test-method status="PASS" signature="LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="LoginCheck" duration-ms="7711" started-at="2018-01-07T21:45:15Z" data-provider="Login_Credentials" finished-at="2018-01-07T21:45:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sanat123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCheck -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="TearDown" is-config="true" duration-ms="2228" started-at="2018-01-07T21:45:22Z" finished-at="2018-01-07T21:45:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginCheck status=SUCCESS method=TestScripts.LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="BrowserFactory()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="BrowserFactory" is-config="true" duration-ms="3630" started-at="2018-01-07T21:45:25Z" finished-at="2018-01-07T21:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserFactory -->
+        <test-method status="PASS" signature="LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="LoginCheck" duration-ms="5496" started-at="2018-01-07T21:45:28Z" data-provider="Login_Credentials" finished-at="2018-01-07T21:45:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sdemo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCheck -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="TearDown" is-config="true" duration-ms="2219" started-at="2018-01-07T21:45:34Z" finished-at="2018-01-07T21:45:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginCheck status=SUCCESS method=TestScripts.LoginCheck(java.lang.String, java.lang.String)[pri:3, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.AdidasTask.TestScripts.TestScripts@59fa1d9b]" name="report" is-config="true" duration-ms="0" started-at="2018-01-07T21:45:36Z" finished-at="2018-01-07T21:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.AdidasTask.TestScripts.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
