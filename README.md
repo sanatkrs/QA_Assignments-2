@@ -7,13 +7,13 @@ Adidas-QA-Task2\src\test\resources\Report\AllReport.html
 
 <h2>About Task:</h2>
  I have automated total three test cases here
-Test Case 
+Test Cases:<br> 
 1st: Verify the title for Homepage<br>
-Test Case Status: Pass
+Test Case Status: Pass<br>
 2nd: Verify When user is adding any product in the cart same product is visible in the cart<br>
-Test Case Status: Pass
+Test Case Status: Pass<br>
 3rd: Verify the login functionality with invalid creadentials.<br>
-Test Case Status: Pass
+Test Case Status: Pass<br>
 
 <h3>Note:</h3>
 I have added a feature, if test case is getting failed, screenshot will be taken automaticlly and same will be saved in the report, for checking that functioanlty you can forcefully failed any test case and check it.
