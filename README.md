@@ -6,7 +6,7 @@ Adidas-QA-Task2\src\test\resources\Report\AllReport.html
 
 
 <h2>About Task:</h2>
- I have automated total three test cases here
+ I have automated total three test cases, please find below the detail: <br>
 Test Cases:<br> 
 1st: Verify the title for Homepage<br>
 Test Case Status: Pass<br>
